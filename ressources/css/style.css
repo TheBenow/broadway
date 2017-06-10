@@ -36,6 +36,8 @@ p {
 
 .banner, .header {
   background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .footer {
